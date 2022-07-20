@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.144.188.92:8081/repository/acadarepo/"
+    "registry": "http://172.31.29.45:8081/repository/acadarepo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
